@@ -1,0 +1,7 @@
+<launch>
+	<node name="rosserial" pkg="rosserial_python" type="serial_node.py" args="/dev/ttyACM0" output="screen"/>
+	<node name="L_det" pkg="bring_up" type="lane_detect.py" output="screen"/>
+	<node name="tracking" pkg="bring_up" type="lane_tracking.py" output="screen"/>
+	<node name="cam" pkg="automodelcar" type="camera_raw.py" output="screen"/>
+        <include file="$(find ydlidar_ros)/launch/X2L.launch"/> 
+</launch>
