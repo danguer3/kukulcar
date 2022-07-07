@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/automodelcar/catkin_ws/install/setup.sh

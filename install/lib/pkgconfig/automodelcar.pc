@@ -1,0 +1,8 @@
+prefix=/home/automodelcar/catkin_ws/install
+
+Name: automodelcar
+Description: Description of automodelcar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
