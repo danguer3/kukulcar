@@ -1,0 +1,9 @@
+
+The following new mates are mapped in motion.
+Axial7
+Axial8
+Planar9
+Axial10
+Planar15
+Axial17
+Planar18

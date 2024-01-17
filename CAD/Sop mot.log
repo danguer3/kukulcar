@@ -1,0 +1,40 @@
+STEP translation to Solid Edge
+Date: Friday,April 22,2022 11:48PM
+Source File: C:\Users\Daniel Guerrero\Documents\Maestria\CAD\Diseño\SOLID EDGE\Sop mot.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: AMD Ryzen 5 3600X 6-Core Processor             
+Operating System: Windows 10 Professional
+Installed Memory: 31.91 GB
+
+Software Information
+Parasolid Version: 31.1.255
+PSBodyShop Version: 31.1.110
+Step Adapter Version: 5.0.48
+Solid Edge Version: 220.00.00.104 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Daniel Guerrero\Documents\Maestria\CAD\Diseño\SOLID EDGE
+Import Enable Default Output Path: On
+Import PMI: Off
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 01
